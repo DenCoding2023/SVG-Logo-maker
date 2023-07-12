@@ -21,5 +21,8 @@
   "homepage": "https://github.com/DenCoding2023/SVG-Logo-maker#readme",
   "dependencies": {
     "inquirer": "^9.2.7"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
   }
 }
