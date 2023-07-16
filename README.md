@@ -47,3 +47,4 @@ In the file (shape.test.js) you are able to check the validation of the classes.
 
 ## Deployment
 1. https://github.com/DenCoding2023/SVG-Logo-maker.git
+2. video link: https://watch.screencastify.com/v/uIKQfq9X5DQjqB4ao6dF
